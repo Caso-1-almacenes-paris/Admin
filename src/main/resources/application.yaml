@@ -20,7 +20,6 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
 
 eureka:
-
  client:
   register-with-eureka: true
   fetch-registry: true
